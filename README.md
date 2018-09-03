@@ -1,2 +1,3 @@
 # Coding
-<!DOCTYPE html>
+
+This is a test coding site!
